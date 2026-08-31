@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-Driven by a passion for digital defense, I'm a **Cybersecurity Researcher** based in Souk Ahras, Algeria 🇩🇿, specializing in **Vulnerability Research**, **Penetration Testing**, and **Full-Stack Development**. I've discovered and reported multiple critical vulnerabilities in Algerian financial and governmental institutions, and I'm a **1st Place Winner** at the International Hackathon in AI & Cybersecurity (Kairouan, Tunisia 2026). Open to collaborations on security research, secure web/mobile platforms, and DevOps automation. 🔐🚀
+Computer Science graduate with a strong focus on cybersecurity and web/mobile development. Server administrator with hands-on experience in vulnerability research and security assessment. Discovered multiple critical vulnerabilities in Algerian institutions. Active participant in national cybersecurity conferences, programming competitions, and international AI/cybersecurity hackathons. Committed to contributing to security-focused teams and innovative projects. 🔐🚀
 
 - 🔭 Currently working on a full-stack platform for managing university business incubator operations  
 - 🌱 Currently deepening my skills in **AI/ML** and applying it to security research  
@@ -22,13 +22,13 @@ Driven by a passion for digital defense, I'm a **Cybersecurity Researcher** base
 
 ---
 
-## 🛠️ Skills, Technologies & Tools
+## 🛠️ Technical Skills
 
-### 🔐 Cybersecurity & CTF Tools
+### 🔐 Cybersecurity
 
 | Metasploit | Wireshark | Burp Suite | Nmap | Netcat | OWASP ZAP |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" width="45" height="45" alt="metasploit"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="45" height="45" alt="wireshark"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portswiggerburpsuite/portswiggerburpsuite-original.svg" width="45" height="45" alt="burpsuite"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" width="45" height="45" alt="nmap"/> | <img src="https://img.shields.io/badge/-Netcat-000?style=flat&logo=gnometerminal" width="60" height="45" alt="netcat"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owasp/owasp-original.svg" width="45" height="45" alt="owasp"/> |
+| <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/> | <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/> | <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/> | <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/> | <img src="https://img.shields.io/badge/-Netcat-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Netcat"/> | <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/> |
 
 ---
 
@@ -36,7 +36,7 @@ Driven by a passion for digital defense, I'm a **Cybersecurity Researcher** base
 
 | HTML5 | CSS3 | JavaScript | PHP | Laravel | FastAPI |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="html5"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="css3"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="javascript"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="php"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45" alt="laravel"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="fastapi"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> |
 
 ---
 
@@ -44,7 +44,7 @@ Driven by a passion for digital defense, I'm a **Cybersecurity Researcher** base
 
 | Flutter | Android | Dart |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="flutter"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" alt="android"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45" height="45" alt="dart"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/> |
 
 ---
 
@@ -52,23 +52,23 @@ Driven by a passion for digital defense, I'm a **Cybersecurity Researcher** base
 
 | Linux | Docker | Nginx | Apache | Git | SSH |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="linux"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="docker"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" alt="nginx"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45" height="45" alt="apache"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="git"/> | <img src="https://img.shields.io/badge/-SSH-000?style=flat&logo=openssh" width="60" height="45" alt="ssh"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://img.shields.io/badge/-SSH-000?style=flat&logo=openssh" alt="SSH" width="55" height="55"/> |
 
 ---
 
-### 🤖 AI, ML & Data
+### 🤖 AI & ML
 
 | Python | Machine Learning | Data Analysis |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="python"/> | <img src="https://img.shields.io/badge/-ML-000?style=flat&logo=tensorflow" width="60" height="45" alt="ml"/> | <img src="https://img.shields.io/badge/-Data%20Analysis-000?style=flat&logo=databricks" width="80" height="45" alt="data"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://img.shields.io/badge/-ML-000?style=flat&logo=tensorflow" alt="ML" width="55" height="55"/> | <img src="https://img.shields.io/badge/-Data%20Analysis-000?style=flat&logo=databricks" alt="Data Analysis" width="55" height="55"/> |
 
 ---
 
 ### 🗄️ Databases
 
-| MySQL | SQL Server |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="mysql"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="mssql"/> |
+| MySQL | SQL Server | PostgreSQL | SQLite |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" alt="SQL Server" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> |
 
 ---
 
@@ -76,21 +76,51 @@ Driven by a passion for digital defense, I'm a **Cybersecurity Researcher** base
 
 | Kali Linux | Windows 11 | Linux |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="45" height="45" alt="kali"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="45" height="45" alt="windows"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="linux"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original-wordmark.svg" title="Windows 11" alt="Windows 11" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 ---
 
 ## 🏢 Experience
 
 - **Web Developer & Server Administrator** — University Business Incubator, Mohamed Cherif Messaadia University (2026 – Present)  
+  *Developed full-stack platform for managing university business incubator operations. Administered and maintained Linux servers with security hardening and monitoring. Implemented access control policies and security infrastructure.*
+
 - **Vulnerability Researcher & Security Analyst** — Independent Research (2025 – Present)  
+  *Discovered and documented multiple critical vulnerabilities in Algerian financial and governmental institutions. Conducted security assessments and penetration testing engagements. Prepared detailed vulnerability reports with remediation recommendations.*
+
 - **Software Development Trainer** — Oxydelta Academy, Souk Ahras (2025)  
+  *Delivered hands-on training in web and software development. Mentored students through practical projects emphasizing secure coding practices.*
+
 - **Club President** — StepUp Club, Souk Ahras (2023 – 2026)  
-- **Freelance Web Developer** — Self-employed (2021 – Present), 80+ projects delivered  
+  *Led the club for 3 years, organizing technical and community-focused events. Organized OxyCamp (2025-2026) and TechHoliday (2026) technical bootcamps.*
+
+- **Freelance Web Developer** — Self-employed (2021 – Present)  
+  *Delivered 80+ web development and application projects for clients across Algeria. Provided secure and optimized digital solutions including platforms and APIs. Wrote technical articles for Coder Shiyar Academy.*
 
 ---
 
-## 📫 Connect with Me
+## 🏆 Events & Competitions
+
+- **International Hackathon in AI & Cybersecurity** – First Place Winner  
+  Higher Institute of Applied Sciences and Technology, Kairouan, Tunisia (2026)
+
+- **National Cybersecurity Conference** – Batna, Algeria (2026)
+
+- **National Olympiad of Programming and Artificial Intelligence** – Setif, Algeria (2025)
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Science in Computer Science** — Mohamed Cherif Messaadia University, Souk Ahras (2026)
+
+- **Graduate of the University Business Incubator Program** — Mohamed Cherif Messaadia University of Souk Ahras - Cybersecurity Startup Project (2026)
+
+- **Baccalaureate — Experimental Science** — Hammadi Mohamed High School, Souk Ahras (2023)
+
+---
+
+## 📫 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/zakaria-loumaizia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-loumaizia" height="30" width="40" /></a>
