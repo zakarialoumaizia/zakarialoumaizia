@@ -20,64 +20,47 @@ Driven by a passion for digital defense, I'm a **Cybersecurity Researcher** base
 
 ## Skills, Technologies & Tools
 
-**Cybersecurity**
+**Cybersecurity & CTF Tools:**
 
-![Network Security](https://img.shields.io/badge/-Network%20Security-black?style=flat-square)
-![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-black?style=flat-square)
-![Vulnerability Assessment](https://img.shields.io/badge/-Vulnerability%20Assessment-black?style=flat-square)
-![OWASP Top 10](https://img.shields.io/badge/-OWASP%20Top%2010-black?style=flat-square)
-![CTF](https://img.shields.io/badge/-CTF-black?style=flat-square)
+| Metasploit | Wireshark | Burp Suite | Nmap | Netcat | OWASP ZAP |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" width="40" height="40" alt="metasploit" onerror="this.src='https://img.shields.io/badge/-MSF-2596CD'"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40" alt="wireshark"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portswiggerburpsuite/portswiggerburpsuite-original.svg" width="40" height="40" alt="burpsuite"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" width="40" height="40" alt="nmap"/> | <img src="https://img.shields.io/badge/-nc-black?style=flat-square" alt="netcat"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owasp/owasp-original.svg" width="40" height="40" alt="owasp"/> |
 
-**Web Development**
+**Web Development:**
 
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-</p>
+| HTML5 | CSS3 | JavaScript | PHP | Laravel | FastAPI |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="laravel"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="fastapi"/> |
 
-**Mobile Development**
+**Mobile Development:**
 
-<p align="left">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-</p>
+| Flutter | Android | Dart |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="flutter"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="android"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="dart"/> |
 
-**DevOps & Server Administration**
+**DevOps & Server Administration:**
 
-<p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
+| Linux | Docker | Nginx | Apache | Git | SSH |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="nginx"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40" alt="apache"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/> | <img src="https://img.shields.io/badge/-SSH-black?style=flat-square" alt="ssh"/> |
 
-**AI & Data**
+**AI, ML & Data:**
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+| Python | Machine Learning | Data Analysis |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> | <img src="https://img.shields.io/badge/-ML-black?style=flat-square" alt="ml"/> | <img src="https://img.shields.io/badge/-Data%20Analysis-black?style=flat-square" alt="data"/> |
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-black?style=flat-square)
+**Databases:**
 
-**Tools for CTFs**
+| MySQL | SQL Server |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="mssql"/> |
 
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square)
-![Netcat](https://img.shields.io/badge/-Netcat-black?style=flat-square)
+**Operating Systems:**
 
-**Databases**
-
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-</p>
+| Kali Linux | Windows 11 | Linux |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="40" height="40" alt="kali"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40" alt="windows"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/> |
 
 ## Experience
 
